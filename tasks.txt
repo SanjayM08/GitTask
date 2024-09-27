@@ -1,0 +1,27 @@
+Linux Commands & Cloud Fundamentals
+SQL Administration & Cloud Baisc's
+Java, SSH, putty, puttygen & Employee Activity
+
+Jenkins Installation & Role of Devops Engineer
+Nginx Installation & Cloud Services
+Holiday
+Holiday
+Nginx and Apache2 hited the application & Cloud Platforms
+Revised all topics again those who joined recently
+Github creation and git tools & Git Versioning Control, Task
+Assessments taken for all
+Docker installation
+Discussed on real world devops projects
+Holiday
+Holiday
+Internet Information Service
+website deployment using IIS
+AWS 5 important services.
+Real time usage of services
+Holiday
+Holiday
+PHP
+AWS Instance creation for website IAM
+
+
+
