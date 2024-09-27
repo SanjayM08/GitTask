@@ -1,6 +1,7 @@
 Linux Commands & Cloud Fundamentals
 SQL Administration & Cloud Baisc's
 Java, SSH, putty, puttygen & Employee Activity
+
 Jenkins Installation & Role of Devops Engineer
 Nginx Installation & Cloud Services
 Holiday
